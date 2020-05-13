@@ -1,4 +1,4 @@
-# High-Dynamic-Range-Imaging
+# Image-Stitching
 https://eric033014.github.io/Image-Stitching/
 
 ## Enter Work Space & Create Cmake Work Space
